@@ -31,11 +31,15 @@ BASADO EN EL TUTORIAL: https://www.arduino.cc/en/Tutorial/toneMelody
 
 #Herramientas:
 
-+1 Soldador.
-+1 Mini Taladro 'Dremel'
-+1 Pistola cola termo plástica.
-+1 Tijeras.
-+1 Pinzas.
+1 Soldador.
+
+1 Mini Taladro 'Dremel'
+
+1 Pistola cola termo plástica.
+
+1 Tijeras.
+
+1 Pinzas.
 
 -------------------------------
 
