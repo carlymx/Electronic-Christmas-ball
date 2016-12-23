@@ -19,7 +19,7 @@ BASADO EN EL TUTORIAL: https://www.arduino.cc/en/Tutorial/toneMelody
 
 -------------------------------
 
-#Materiales:
+##Materiales:
 
 1 Digispark (Micro Arduino).
 
@@ -33,7 +33,7 @@ BASADO EN EL TUTORIAL: https://www.arduino.cc/en/Tutorial/toneMelody
 
 1 pulsador mini.
 
-#Herramientas:
+##Herramientas:
 
 1 Soldador.
 
